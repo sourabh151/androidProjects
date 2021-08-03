@@ -16,6 +16,7 @@
 		android:text="Button"
 		android:onClick="displayToastMsg"
 		android:id="@+id/mainButton1"/>
+//i wrote in here
 
 </LinearLayout>
 

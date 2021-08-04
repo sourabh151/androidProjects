@@ -19,5 +19,6 @@ public class MainActivity extends Activity
     public void toastMsg(String msg) {
         Toast toast = Toast.makeText(this, msg, Toast.LENGTH_LONG);
         toast.show();
+        //hola
     }
 }
